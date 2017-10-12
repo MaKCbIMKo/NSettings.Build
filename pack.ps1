@@ -1,5 +1,3 @@
-Import-Module $PSScriptRoot\shared.ps1
-
 Write-Host "# Packing projects has been begun"
 
 Write-Host "# Pack projects to NuGet packages"

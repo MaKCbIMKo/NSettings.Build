@@ -1,5 +1,3 @@
-Import-Module $PSScriptRoot\shared.ps1
-
 Write-Host "# Build has been begun"
 
 Write-Host "# Restore NuGet packages"
